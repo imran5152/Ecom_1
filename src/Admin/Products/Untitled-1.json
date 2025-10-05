@@ -1,0 +1,329 @@
+[
+  {
+    "name": "Wireless Bluetooth Headphones",
+    "description": "High-quality wireless headphones with active noise cancellation and 30-hour battery life",
+    "price": 2999,
+    "category": "Electronics",
+    "stock": 25,
+    "sku": "WH-001",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+    "brand": "SoundMax"
+  },
+  {
+    "name": "Smart Fitness Watch",
+    "description": "Advanced smartwatch with heart rate monitoring, GPS, and sports modes",
+    "price": 4999,
+    "category": "Wearables",
+    "stock": 15,
+    "sku": "SW-002",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400",
+    "brand": "FitTech"
+  },
+  {
+    "name": "Premium Leather Wallet",
+    "description": "Genuine leather wallet with multiple card slots and cash compartment",
+    "price": 1299,
+    "category": "Accessories",
+    "stock": 40,
+    "sku": "WL-003",
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=400",
+    "brand": "LeatherCraft"
+  },
+  {
+    "name": "Gaming Mechanical Keyboard",
+    "description": "RGB mechanical keyboard with customizable keys and fast response time",
+    "price": 3599,
+    "category": "Electronics",
+    "stock": 12,
+    "sku": "KB-004",
+    "image": "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=400",
+    "brand": "GamePro"
+  },
+  {
+    "name": "Wireless Earbuds",
+    "description": "True wireless earbuds with charging case and water resistance",
+    "price": 1999,
+    "category": "Electronics",
+    "stock": 30,
+    "sku": "EB-005",
+    "image": "https://images.unsplash.com/photo-1590658165737-15a047b8b5e0?w=400",
+    "brand": "AudioPlus"
+  },
+  {
+    "name": "Smartphone Case",
+    "description": "Shockproof and scratch-resistant case for latest smartphones",
+    "price": 599,
+    "category": "Accessories",
+    "stock": 50,
+    "sku": "SC-006",
+    "image": "https://images.unsplash.com/photo-1556656793-08538906a9f8?w=400",
+    "brand": "CaseGuard"
+  },
+  {
+    "name": "Laptop Backpack",
+    "description": "Water-resistant backpack with laptop compartment and USB charging port",
+    "price": 1899,
+    "category": "Accessories",
+    "stock": 20,
+    "sku": "BP-007",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400",
+    "brand": "TravelGear"
+  },
+  {
+    "name": "Smart TV 43 inch",
+    "description": "4K Ultra HD Smart TV with Android TV and voice control",
+    "price": 32999,
+    "category": "Electronics",
+    "stock": 8,
+    "sku": "TV-008",
+    "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=400",
+    "brand": "VisionPlus"
+  },
+  {
+    "name": "Fitness Tracker Band",
+    "description": "Activity tracker with step counter, calorie tracker and sleep monitoring",
+    "price": 1499,
+    "category": "Wearables",
+    "stock": 35,
+    "sku": "FB-009",
+    "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=400",
+    "brand": "ActiveLife"
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with 360° sound and 12-hour battery",
+    "price": 2499,
+    "category": "Electronics",
+    "stock": 18,
+    "sku": "BS-010",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400",
+    "brand": "SoundWave"
+  },
+  {
+    "name": "Sunglasses Polarized",
+    "description": "UV protection polarized sunglasses with stylish frame",
+    "price": 899,
+    "category": "Accessories",
+    "stock": 28,
+    "sku": "SG-011",
+    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=400",
+    "brand": "SunStyle"
+  },
+  {
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with precision tracking and silent clicks",
+    "price": 799,
+    "category": "Electronics",
+    "stock": 45,
+    "sku": "WM-012",
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=400",
+    "brand": "TechGear"
+  },
+  {
+    "name": "Running Shoes",
+    "description": "Lightweight running shoes with cushioning and breathable mesh",
+    "price": 2799,
+    "category": "Footwear",
+    "stock": 22,
+    "sku": "RS-013",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400",
+    "brand": "RunFast"
+  },
+  {
+    "name": "Coffee Maker",
+    "description": "Automatic drip coffee maker with programmable timer and thermal carafe",
+    "price": 3999,
+    "category": "Home Appliances",
+    "stock": 10,
+    "sku": "CM-014",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400",
+    "brand": "BrewMaster"
+  },
+  {
+    "name": "Desk Lamp",
+    "description": "LED desk lamp with adjustable brightness and color temperature",
+    "price": 1299,
+    "category": "Home Decor",
+    "stock": 32,
+    "sku": "DL-015",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=400",
+    "brand": "LightWorks"
+  },
+  {
+    "name": "Yoga Mat",
+    "description": "Non-slip yoga mat with carrying strap and alignment markers",
+    "price": 899,
+    "category": "Sports",
+    "stock": 25,
+    "sku": "YM-016",
+    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400",
+    "brand": "YogaLife"
+  },
+  {
+    "name": "Water Bottle",
+    "description": "Insulated stainless steel water bottle keeps drinks hot/cold for hours",
+    "price": 699,
+    "category": "Accessories",
+    "stock": 60,
+    "sku": "WB-017",
+    "image": "https://images.unsplash.com/photo-1523362628745-0c100150b504?w=400",
+    "brand": "HydroFlask"
+  },
+  {
+    "name": "Smart Doorbell",
+    "description": "WiFi video doorbell with motion detection and two-way audio",
+    "price": 5999,
+    "category": "Smart Home",
+    "stock": 7,
+    "sku": "DB-018",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25856cd61?w=400",
+    "brand": "SecureHome"
+  },
+  {
+    "name": "Wireless Charger",
+    "description": "Fast wireless charging pad compatible with all Qi-enabled devices",
+    "price": 1199,
+    "category": "Electronics",
+    "stock": 40,
+    "sku": "WC-019",
+    "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=400",
+    "brand": "ChargeTech"
+  },
+  {
+    "name": "Back Massager",
+    "description": "Electric back massager with heat therapy and multiple intensity levels",
+    "price": 2299,
+    "category": "Health & Wellness",
+    "stock": 14,
+    "sku": "BM-020",
+    "image": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=400",
+    "brand": "RelaxPro"
+  },
+  {
+    "name": "Digital Camera",
+    "description": "24MP digital camera with 4K video and interchangeable lenses",
+    "price": 45999,
+    "category": "Electronics",
+    "stock": 5,
+    "sku": "DC-021",
+    "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=400",
+    "brand": "PhotoMaster"
+  },
+  {
+    "name": "Gaming Chair",
+    "description": "Ergonomic gaming chair with lumbar support and adjustable armrests",
+    "price": 12999,
+    "category": "Furniture",
+    "stock": 6,
+    "sku": "GC-022",
+    "image": "https://images.unsplash.com/photo-1586953262275-8c76cf5ec43a?w=400",
+    "brand": "GameSeat"
+  },
+  {
+    "name": "Air Purifier",
+    "description": "HEPA air purifier for rooms up to 500 sq ft with air quality sensor",
+    "price": 8999,
+    "category": "Home Appliances",
+    "stock": 9,
+    "sku": "AP-023",
+    "image": "https://images.unsplash.com/photo-1587334985589-8d1d3c06246e?w=400",
+    "brand": "PureAir"
+  },
+  {
+    "name": "Smart Light Bulb",
+    "description": "WiFi smart bulb with color changing features and voice control",
+    "price": 899,
+    "category": "Smart Home",
+    "stock": 35,
+    "sku": "LB-024",
+    "image": "https://images.unsplash.com/photo-1558618069-10ae67fe5e5f?w=400",
+    "brand": "SmartLight"
+  },
+  {
+    "name": "Portable SSD",
+    "description": "1TB portable solid state drive with USB-C connectivity",
+    "price": 7999,
+    "category": "Electronics",
+    "stock": 15,
+    "sku": "SSD-025",
+    "image": "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=400",
+    "brand": "DataFast"
+  },
+  {
+    "name": "Electric Kettle",
+    "description": "Stainless steel electric kettle with automatic shut-off",
+    "price": 1499,
+    "category": "Home Appliances",
+    "stock": 20,
+    "sku": "EK-026",
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcf93a?w=400",
+    "brand": "QuickBoil"
+  },
+  {
+    "name": "Fitness Dumbbells",
+    "description": "Adjustable dumbbell set with multiple weight options",
+    "price": 3499,
+    "category": "Sports",
+    "stock": 12,
+    "sku": "DB-027",
+    "image": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=400",
+    "brand": "FitWeights"
+  },
+  {
+    "name": "Bluetooth Neckband",
+    "description": "Sports neckband with magnetic earbuds and sweat resistance",
+    "price": 1599,
+    "category": "Electronics",
+    "stock": 25,
+    "sku": "BN-028",
+    "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?w=400",
+    "brand": "AudioFlex"
+  },
+  {
+    "name": "Laptop Stand",
+    "description": "Aluminum laptop stand for better ergonomics and cooling",
+    "price": 1299,
+    "category": "Accessories",
+    "stock": 30,
+    "sku": "LS-029",
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=400",
+    "brand": "ErgoTech"
+  },
+  {
+    "name": "Smart Scale",
+    "description": "Digital body weight scale with BMI tracking and app connectivity",
+    "price": 1999,
+    "category": "Health & Wellness",
+    "stock": 18,
+    "sku": "SS-030",
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400",
+    "brand": "HealthTrack"
+  },
+  {
+    "name": "Wireless Router",
+    "description": "Dual-band WiFi 6 router with high-speed connectivity",
+    "price": 3499,
+    "category": "Electronics",
+    "stock": 11,
+    "sku": "WR-031",
+    "image": "https://images.unsplash.com/photo-1599669454699-248893623440?w=400",
+    "brand": "NetSpeed"
+  },
+  {
+    "name": "Desk Organizer",
+    "description": "Multifunctional desk organizer with pen holders and phone stand",
+    "price": 599,
+    "category": "Office Supplies",
+    "stock": 45,
+    "sku": "DO-032",
+    "image": "https://images.unsplash.com/photo-1587334985589-8d1d3c06246e?w=400",
+    "brand": "OrganizePro"
+  },
+  {
+    "name": "Action Camera",
+    "description": "4K action camera with waterproof housing and image stabilization",
+    "price": 12999,
+    "category": "Electronics",
+    "stock": 8,
+    "sku": "AC-033",
+    "image": "https://images.unsplash
